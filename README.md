@@ -22,12 +22,12 @@ sp_GenerateBill(IN OrderID, OUT Bill_AMT)
 
 ### Rough sketch
 
-![](https://github.com/yogeshwarreddy/database_concepts/blob/master/assignments/ER%20diagram%20drawn%20in%20class.png)
+![](https://raw.githubusercontent.com/yogeshwarreddy/database_concepts/master/assignments/ER%20diagram%20drawn%20in%20class.png)
 
 
 ### Final Schema
 
-![](https://raw.githubusercontent.com/yogeshwarreddy/database_concepts/master/assignments/ER%20diagram%20drawn%20in%20class.png)
+![](https://raw.githubusercontent.com/yogeshwarreddy/database_concepts/master/assignments/EER%20diagram.png)
 
 
 [SQL Dump file](https://github.com/yogeshwarreddy/database_concepts/blob/master/assignments/restaurant_db_dump.sql)
