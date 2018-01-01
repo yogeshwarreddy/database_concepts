@@ -27,7 +27,7 @@ sp_GenerateBill(IN OrderID, OUT Bill_AMT)
 
 ### Final Schema
 
-![](https://github.com/yogeshwarreddy/database_concepts/blob/master/assignments/EER%20diagram.png)
+![](https://raw.githubusercontent.com/yogeshwarreddy/database_concepts/master/assignments/ER%20diagram%20drawn%20in%20class.png)
 
 
 [SQL Dump file](https://github.com/yogeshwarreddy/database_concepts/blob/master/assignments/restaurant_db_dump.sql)
